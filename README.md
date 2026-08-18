@@ -40,7 +40,7 @@ The dashboard allows stakeholders to filter by department, tenure band, and inco
 2. **Promotion velocity review** — address the 6–10 year tenure bottleneck before it drives further attrition
 3. **Salary equity audit** — close the identified gap between Software/R&D and Hardware/HR compensation tracks
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Data Visualization:** Power BI / Tableau
 - **Data Querying:** SQL
