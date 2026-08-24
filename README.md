@@ -48,6 +48,12 @@ The dashboard allows stakeholders to filter by department, tenure band, and inco
 - **Process:** ETL, Data Cleaning & Preparation
 - **Approach:** Data Storytelling, Workforce Analytics
 
+## Screenshots
+https://github.com/Mizbanaaz-Makandar/HR-Analytics/blob/main/HR%20Analytics%201.png
+
+
+https://github.com/Mizbanaaz-Makandar/HR-Analytics/blob/main/HR%20Analytics%202.png
+
 
 ##  How to View
 
