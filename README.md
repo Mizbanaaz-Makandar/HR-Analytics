@@ -49,7 +49,7 @@ The dashboard allows stakeholders to filter by department, tenure band, and inco
 - **Approach:** Data Storytelling, Workforce Analytics
 
 ## Screenshots
-<img width="921" height="511" alt="image" src="https://github.com/user-attachments/assets/d66a2e73-a0b7-4c5a-a20b-f26489b7edf5" />
+<img width="936" height="450" alt="image" src="https://github.com/user-attachments/assets/a7de4316-028c-48ae-b370-770448ae3ff8" />
 
 
 https://github.com/Mizbanaaz-Makandar/HR-Analytics/blob/main/HR%20Analytics%201.png
